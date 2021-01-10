@@ -10,9 +10,9 @@ The deliverable for this challenge is the creation of a multiple line graph show
 
 ![ScreenShot](https://github.com/liviamiyabara/PyBer_Analysis/blob/main/analysis/Fig1.png)
 
-![ScreenShot](https://github.com/liviamiyabara/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
-
 For the urban cities, there is a higher number of rides with a lower average fare, since urban areas are more densely populated, it is expected to have more journeys with lower distances. The opposite effect happens in rural areas, where the number of rides is lower and the average fare is higher, since people live farther away from each other.
+
+![ScreenShot](https://github.com/liviamiyabara/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.

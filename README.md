@@ -8,8 +8,7 @@ The deliverable for this challenge is the creation of a multiple line graph show
 
 ## Results
 
-![ScreenShot](https://github.com/liviamiyabara/PyBer_Analysis/blob/main/analysis/Fig1.png)
-Note: Circle size correlates with driver count per city.
+![ScreenShot](https://github.com/liviamiyabara/PyBer_Analysis/blob/main/analysis/Fig1.png) Note: Circle size correlates with driver count per city.
 
 For the urban cities, there is a higher number of rides with a lower average fare, since urban areas are more densely populated, it is expected to have more journeys with lower distances. The opposite effect happens in rural areas, where the number of rides is lower and the average fare is higher, since people live farther away from each other.
 

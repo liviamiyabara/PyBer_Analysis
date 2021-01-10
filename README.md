@@ -27,6 +27,7 @@ Based on the chart above, besides the last week of February, where all city type
 
 ## Summary
 
+Based on the analysis, here are the recommendations for addressing any disparities among the city types:
 * Although rural areas represent the lowest revenues, it has the highest average fare per ride. Since the average fare per driver ($55.49) is way higher than the average fare per ride ($34.62), it could indicate the potential of growth by onboarding new drivers to increase coverage in the rural segment
 * The average fare per driver is significant lower in urban areas ($16.57) and more than 80% of the drivers are in large cities, this could indicate a higher supply of drivers compared to the demand of rides. An increase in the urban fare could help drivers increase their earnings.
 * For specific dates where Pyber expects a decrease in the number of rides, the company should do marketing campaigns with discounts to promote the app and increase the number of rides.  More historical data from previous years is needed to determine specific days where demand is low.

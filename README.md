@@ -8,19 +8,20 @@ The deliverable for this challenge is the creation of a multiple line graph show
 
 ## Results
 
+##### Summary Pyber Data
+![ScreenShot](https://github.com/liviamiyabara/PyBer_Analysis/blob/main/analysis/Pyber_summary.png)
+
+As per summary table above, majority of rides and drivers are in urban areas, the average fare per ride and average fare per driver is lower in urban areas and higher in rural ones. Although the more than 80% of the drivers are concentrated in urban areas, only 63% of the total fares and 68% of the rides come from urban locations.
+
+
 ![ScreenShot](https://github.com/liviamiyabara/PyBer_Analysis/blob/main/analysis/Fig1.png) 
 
 Note: Circle size correlates with driver count per city.
 
 For the urban cities, there is a higher number of rides with a lower average fare, since urban areas are more densely populated, it is expected to have more journeys with lower distances. The opposite effect happens in rural areas, where the number of rides is lower and the average fare is higher, since people live farther away from each other.
 
-##### Summary Pyber Data
-![ScreenShot](https://github.com/liviamiyabara/PyBer_Analysis/blob/main/analysis/Pyber_summary.png)
 
-Regarding the number of drivers, more than 80% is concentrated in urban areas, 17% in suburbs and less than 3% in rural locations, as per chart below.
 
-![ScreenShot](https://github.com/liviamiyabara/PyBer_Analysis/blob/main/analysis/Fig7.png) 
-![ScreenShot](https://github.com/liviamiyabara/PyBer_Analysis/blob/main/analysis/Fig5.png) 
 
 ![ScreenShot](https://github.com/liviamiyabara/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 

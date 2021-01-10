@@ -23,9 +23,7 @@ Note: Circle size correlates with driver count per city.
 
 ![ScreenShot](https://github.com/liviamiyabara/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
-
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
-
+Based on the chart above, besides the last week of February, where all city types had a peak of total revenues, each city type has a different behavior each week, for example, in the third week of January the total fare increased slightly for urban areas, it remained almost constant for the suburban areas and it dropped for rural locations.
 
 ## Summary
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.

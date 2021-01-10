@@ -15,6 +15,7 @@ Note: Circle size correlates with driver count per city.
 For the urban cities, there is a higher number of rides with a lower average fare, since urban areas are more densely populated, it is expected to have more journeys with lower distances. The opposite effect happens in rural areas, where the number of rides is lower and the average fare is higher, since people live farther away from each other.
 
 Regarding the number of drivers, more than 80% is concentrated in urban areas, 17% in suburbs and less than 3% in rural locations, as per chart below.
+
 ![ScreenShot](https://github.com/liviamiyabara/PyBer_Analysis/blob/main/analysis/Fig7.png) 
 
 

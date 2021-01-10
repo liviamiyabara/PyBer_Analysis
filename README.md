@@ -17,7 +17,7 @@ For the urban cities, there is a higher number of rides with a lower average far
 Regarding the number of drivers, more than 80% is concentrated in urban areas, 17% in suburbs and less than 3% in rural locations, as per chart below.
 
 ![ScreenShot](https://github.com/liviamiyabara/PyBer_Analysis/blob/main/analysis/Fig7.png) 
-
+![ScreenShot](https://github.com/liviamiyabara/PyBer_Analysis/blob/main/analysis/Fig5.png) 
 
 ![ScreenShot](https://github.com/liviamiyabara/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
